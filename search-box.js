@@ -1,0 +1,1 @@
+console.log('Create the search jobs')
