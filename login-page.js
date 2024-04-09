@@ -1,1 +1,1 @@
-console.log('login page UI loaded')
+console.log('update login page UI loaded')
