@@ -1,1 +1,1 @@
-console.log('Create the search jobs 1')
+console.log('Create the search jobs')
