@@ -1,1 +1,1 @@
-console.log('Create the search box for seeking jobs')
+console.log('Create the search jobs')
